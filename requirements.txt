@@ -1,0 +1,11 @@
+streamlit
+google_play_scraper
+emoji
+wordcloud
+TextBlob
+transformers
+torch
+matplotlib
+seaborn
+nltk
+pandas
